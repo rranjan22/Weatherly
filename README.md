@@ -6,7 +6,8 @@
 
 ## 🖼 Screenshot
 
-> *(Replace with a real screenshot after deployment)*
+>![image](https://github.com/user-attachments/assets/4f8d5e4c-9dc2-4065-8a03-217b8f96c112)
+
 
 ![Weatherly Preview](./public/clouds-and-sun.png)
 
