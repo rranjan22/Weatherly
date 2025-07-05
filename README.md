@@ -15,7 +15,7 @@
 ## 🌐 Live Demo
 
 > 🚀 [Visit Weatherly on Vercel](https://your-vercel-link.vercel.app)  
-> *(Add your actual Vercel link here after deployment)*
+> *https://weatherly-red.vercel.app/*
 
 ---
 
